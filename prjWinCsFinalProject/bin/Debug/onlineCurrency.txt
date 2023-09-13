@@ -1,0 +1,35 @@
+﻿Select Country
+
+
+Select Country
+
+
+-
+Canada
+Canadian Dollars
+1.34
+USA
+US Dollars
+0.74
+-
+Argentina
+Argentine Peso
+166.63
+USA
+US Dollars
+0.0060
+-
+Australia
+Australian Dollars
+1.49
+USA
+US Dollars
+0.67
+-
+Republic of China
+Chinese Yuan
+7.16
+USA
+US Dollars
+0.14
+-

@@ -1,0 +1,12 @@
+﻿France
+Franc
+0.1957
+Canada
+C.N. Dollars
+0.9957
+Angleterre
+Pound
+1.9813
+Japon
+Yen
+1.1257
